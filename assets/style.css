@@ -1,0 +1,46 @@
+
+
+
+.logo{
+    width: 75px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+header{
+    background-color: black;
+    margin-bottom: 25px;
+}
+.container-fluid{
+    color: white;
+}
+.nav-text-active{
+    color: white;
+}
+.nav-text{
+    color: rgb(167, 163, 163);
+}
+
+button{
+    background-color: rgb(32, 116, 243);
+    border-radius: 5px;
+}
+.th-stato{
+    padding: 0 50px 0 10px
+}
+.stato{
+    border-radius: 5px;
+    color: white;
+}
+.card{
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    /*border: solid rgb(173, 172, 172);*/
+    background-color: rgb(196, 194, 194);
+}
+.header-card{
+    padding: 1rem;
+    /*background-color: rgb(196, 194, 194);*/
+}
+.list-group-card{
+    margin: 1rem;
+}  
